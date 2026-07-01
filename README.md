@@ -8,11 +8,11 @@
 
 🚀 **About Me:**
 
-Là một người đam mê học hỏi với mong muốn phát triển sự nghiệp trong lĩnh vực phân tích dữ liệu (Data Analytics).
+* Là một người đam mê học hỏi với mong muốn phát triển sự nghiệp trong lĩnh vực phân tích dữ liệu (Data Analytics).
 
-Yêu thích làm việc với số liệu, trực quan hóa dữ liệu và giải quyết vấn đề.
+ Yêu thích làm việc với số liệu, trực quan hóa dữ liệu và giải quyết vấn đề.
 
-Sử dụng thành thạo các công cụ như Python, SQL, Excel và Power BI.
+*Sử dụng thành thạo các công cụ như Python, SQL, Excel và Power BI.
 
 Luôn tìm kiếm cơ hội để học hỏi, khám phá và phát triển bản thân trong lĩnh vực công nghệ và dữ liệu.
 
