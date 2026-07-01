@@ -25,13 +25,13 @@ Luôn tìm kiếm cơ hội để học hỏi, khám phá và phát triển bả
 
 📁 **Featured Projects:**
 
-1️⃣ [Tên Project 1 - Ví dụ: Python | Phân tích dữ liệu kinh doanh](link-toi-repo-project-1)
+[Tên Project 1 - Ví dụ: Python | Phân tích dữ liệu kinh doanh](link-toi-repo-project-1)
 
-2️⃣ [Tên Project 2 - Ví dụ: SQL | RFM Customer Segmentation](link-toi-repo-project-2)
+[Tên Project 2 - Ví dụ: SQL | RFM Customer Segmentation](link-toi-repo-project-2)
 
-3️⃣ [Tên Project 3 - Ví dụ: Power BI | Dashboard theo dõi doanh thu](link-toi-repo-project-3)
+[Tên Project 3 - Ví dụ: Power BI | Dashboard theo dõi doanh thu](link-toi-repo-project-3)
 
-🎓 **Học vấn & Chứng chỉ:**
+🎓 **Học vấn:**
 
 **Trường Đại học:** University of Finance - Marketing (UFM) | 2022 - 2026
 
@@ -39,7 +39,7 @@ Luôn tìm kiếm cơ hội để học hỏi, khám phá và phát triển bả
 
 **GPA:** 3.46/4.0
 
-**Certifications:**
+📜**Certifications:**
 Microsoft Office Specialist (MOS)
 
 TOEIC 700
