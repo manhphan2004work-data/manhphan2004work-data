@@ -9,19 +9,17 @@
 🚀 **About Me:**
 
 * Là một người đam mê học hỏi với mong muốn phát triển sự nghiệp trong lĩnh vực phân tích dữ liệu (Data Analytics).
- Yêu thích làm việc với số liệu, trực quan hóa dữ liệu và giải quyết vấn đề.
-*Sử dụng thành thạo các công cụ như Python, SQL, Excel và Power BI.
-Luôn tìm kiếm cơ hội để học hỏi, khám phá và phát triển bản thân trong lĩnh vực công nghệ và dữ liệu.
+* Yêu thích làm việc với số liệu, trực quan hóa dữ liệu và giải quyết vấn đề.
+* Sử dụng thành thạo các công cụ như Python, SQL, Excel và Power BI.
+* Luôn tìm kiếm cơ hội để học hỏi, khám phá và phát triển bản thân trong lĩnh vực công nghệ và dữ liệu.
 
 ---
 
 🔥 **Technical Skills:**
 
-Programming Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-Query Languages:SQL (MySQL, PostgreSQL, SQL Server)
-
-Data Visualization: Microsoft Power BI, Excel
+* Programming Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Query Languages:SQL (MySQL, PostgreSQL, SQL Server)
+* Data Visualization: Microsoft Power BI, Excel
 
 ---
 
@@ -37,18 +35,14 @@ Data Visualization: Microsoft Power BI, Excel
 
 🎓 **Học vấn:**
 
-Trường Đại học: University of Finance - Marketing (UFM) | 2022 - 2026
-
-Chuyên ngành: Quản lý kinh tế
-
-GPA: 3.46/4.0
+* Trường Đại học: University of Finance - Marketing (UFM) | 2022 - 2026
+* Chuyên ngành: Quản lý kinh tế
+* GPA: 3.46/4.0
 
 ---
 
 📜**Certifications:**
 
-Microsoft Office Specialist (MOS)
-
-TOEIC 700
-
-Datacamp Courses: SQL, Power BI, Pyhton
+* Microsoft Office Specialist (MOS)
+* TOEIC 700
+* Datacamp Courses: SQL, Power BI, Pyhton
